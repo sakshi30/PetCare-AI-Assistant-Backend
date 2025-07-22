@@ -1,7 +1,6 @@
 import os
 import json
 import mysql.connector
-from mysql.connector import pooling
 import bcrypt
 from contextlib import contextmanager
 
